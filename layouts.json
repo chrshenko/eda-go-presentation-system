@@ -1,0 +1,440 @@
+[
+  {
+    "id": "cover",
+    "name": "Еда в городе",
+    "when": "Обложка презентации",
+    "figmaNodeId": "12:2372",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2372",
+    "preview": "previews/01.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 40,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "section",
+    "name": "Итоги квартала",
+    "when": "Начало нового раздела",
+    "figmaNodeId": "12:2378",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2378",
+    "preview": "previews/02.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 40,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "agenda",
+    "name": "Повестка",
+    "when": "План встречи",
+    "figmaNodeId": "12:2383",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2383",
+    "preview": "previews/03.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        1,
+        6
+      ]
+    }
+  },
+  {
+    "id": "metrics3",
+    "name": "Результаты квартала",
+    "when": "Три ключевых показателя",
+    "figmaNodeId": "12:2414",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2414",
+    "preview": "previews/04.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        3,
+        3
+      ]
+    }
+  },
+  {
+    "id": "grid6",
+    "name": "Направления роста",
+    "when": "Шесть направлений",
+    "figmaNodeId": "12:2422",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2422",
+    "preview": "previews/05.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 100,
+      "items": [
+        6,
+        6
+      ]
+    }
+  },
+  {
+    "id": "comparison",
+    "name": "Два подхода",
+    "when": "Сравнение двух подходов",
+    "figmaNodeId": "12:2431",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2431",
+    "preview": "previews/06.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        2,
+        2
+      ]
+    }
+  },
+  {
+    "id": "timeline",
+    "name": "План запуска",
+    "when": "Четыре этапа запуска",
+    "figmaNodeId": "12:2463",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2463",
+    "preview": "previews/07.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        2,
+        4
+      ]
+    }
+  },
+  {
+    "id": "table",
+    "name": "Сводка по показателям",
+    "when": "Сводная таблица",
+    "figmaNodeId": "12:2494",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2494",
+    "preview": "previews/08.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "headers",
+      "rows",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "bar",
+    "name": "Динамика заказов",
+    "when": "Динамика по категориям",
+    "figmaNodeId": "12:2511",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2511",
+    "preview": "previews/09.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "unit",
+      "categories",
+      "series",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "text-photo",
+    "name": "От выбора до заказа",
+    "when": "Сценарий с фотографией",
+    "figmaNodeId": "12:2548",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2548",
+    "preview": "previews/10.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "image",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "photo-kpi",
+    "name": "Главный результат",
+    "when": "Фото и два показателя",
+    "figmaNodeId": "12:2567",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2567",
+    "preview": "previews/11.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "image",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "screenshots",
+    "name": "Путь клиента в приложении",
+    "when": "Путь клиента: до пяти экранов",
+    "figmaNodeId": "12:2579",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2579",
+    "preview": "previews/12.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        1,
+        5
+      ]
+    }
+  },
+  {
+    "id": "gallery",
+    "name": "Подборка ресторанов",
+    "when": "Три блюда или проекта",
+    "figmaNodeId": "12:2597",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2597",
+    "preview": "previews/13.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": "final",
+    "name": "Спасибо!",
+    "when": "Завершение выступления",
+    "figmaNodeId": "12:2613",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2613",
+    "preview": "previews/14.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 40,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "section-yellow",
+    "name": "Следующие шаги",
+    "when": "Альтернативный раздел",
+    "figmaNodeId": "12:2619",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2619",
+    "preview": "previews/15.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 40,
+      "blockBodyChars": 210
+    },
+    "note": "Альтернативный вариант по согласованным правилам; Figma-исходник 15 сейчас тёмный."
+  },
+  {
+    "id": "schedule",
+    "name": "Расписание",
+    "when": "Расписание и фото",
+    "figmaNodeId": "12:2623",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2623",
+    "preview": "previews/16.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        1,
+        6
+      ]
+    }
+  },
+  {
+    "id": "kpi-grid",
+    "name": "Главные показатели",
+    "when": "Четыре значения и главный результат",
+    "figmaNodeId": "12:2642",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2642",
+    "preview": "previews/17.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "value",
+      "body",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        4,
+        4
+      ]
+    }
+  },
+  {
+    "id": "product",
+    "name": "Что изменилось",
+    "when": "Четыре изменения и экран",
+    "figmaNodeId": "12:2663",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2663",
+    "preview": "previews/18.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  },
+  {
+    "id": "theses",
+    "name": "Что важно запомнить",
+    "when": "Три ключевых тезиса",
+    "figmaNodeId": "12:2678",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2678",
+    "preview": "previews/19.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "items",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210,
+      "items": [
+        1,
+        3
+      ]
+    }
+  },
+  {
+    "id": "line-result",
+    "name": "Заказы выше плана",
+    "when": "Динамика и основной вывод",
+    "figmaNodeId": "12:2689",
+    "figmaUrl": "https://www.figma.com/design/uYVONn5qO4mfz2jdwt0OJw/?node-id=12-2689",
+    "preview": "previews/20.png",
+    "implemented": true,
+    "fields": [
+      "layout",
+      "title",
+      "subtitle",
+      "categories",
+      "series",
+      "value",
+      "body",
+      "source"
+    ],
+    "limits": {
+      "titleChars": 65,
+      "blockBodyChars": 210
+    }
+  }
+]

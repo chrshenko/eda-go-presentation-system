@@ -1,0 +1,19 @@
+{
+  "name": "eda-go-presentation-system",
+  "version": "1.0.1",
+  "private": true,
+  "type": "module",
+  "description": "Бриф → проверяемые данные → редактируемые презентации Еда в Яндекс Go",
+  "scripts": {
+    "validate": "node scripts/validate.mjs examples/catalog.json",
+    "catalog": "node scripts/build.mjs examples/catalog.json output/catalog",
+    "build": "node scripts/build.mjs",
+    "test": "node scripts/test-validation.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "peerDependencies": {
+    "@oai/artifact-tool": "*"
+  }
+}

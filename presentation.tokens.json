@@ -1,0 +1,22 @@
+{
+  "version": "1.0.0",
+  "canvas": {"width": 1920, "height": 1080, "aspectRatio": "16:9", "units": "px"},
+  "grid": {"columns": 12, "margin": 60, "gutter": 24, "columnWidth": 128},
+  "colors": {"yellow": "#FFEA00", "ink": "#21201F", "white": "#FFFFFF", "gray100": "#F2F2F2", "gray400": "#BFBFBF", "gray700": "#767676"},
+  "fonts": {"display": "YS Display Cond Black", "body": "YS Text", "medium": "YS Text Medium"},
+  "type": {
+    "display": {"size": 208, "lineHeight": 0.85},
+    "title": {"size": 88, "lineHeight": 0.95},
+    "heading": {"size": 60, "lineHeight": 0.95},
+    "subheading": {"size": 42, "lineHeight": 1.0},
+    "metric": {"size": 132, "lineHeight": 1.0},
+    "lead": {"size": 40, "lineHeight": 1.1},
+    "body": {"size": 28, "lineHeight": 1.26},
+    "label": {"size": 24, "lineHeight": 1.0},
+    "caption": {"size": 20, "lineHeight": 1.2}
+  },
+  "spacing": [8, 16, 24, 32, 48, 60, 64, 96],
+  "radii": [16, 24, 32],
+  "logo": {"working": {"width": 197, "height": 47, "top": 60, "right": 60}, "coverAndFinal": {"width": 720, "height": 172, "top": 60, "left": 60}},
+  "provenance": {"figmaFile": "uYVONn5qO4mfz2jdwt0OJw", "page": "12:2276", "snapshotDate": "2026-11-19"}
+}

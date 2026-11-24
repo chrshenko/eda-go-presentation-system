@@ -1,0 +1,269 @@
+{
+  "file": "catalog.pptx",
+  "slideCount": 20,
+  "nativeChartParts": 2,
+  "embeddedWorkbooks": 2,
+  "fontNames": [
+    "YS Display Cond Black",
+    "YS Text",
+    "YS Text Medium"
+  ],
+  "slides": [
+    {
+      "slide": 1,
+      "textObjects": 3,
+      "texts": 3,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 2
+    },
+    {
+      "slide": 2,
+      "textObjects": 2,
+      "texts": 2,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 3,
+      "textObjects": 10,
+      "texts": 10,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 4,
+      "textObjects": 11,
+      "texts": 11,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 5,
+      "textObjects": 19,
+      "texts": 19,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 6,
+      "textObjects": 15,
+      "texts": 15,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 7,
+      "textObjects": 14,
+      "texts": 14,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 8,
+      "textObjects": 1,
+      "texts": 21,
+      "nativeTables": 1,
+      "graphicFrames": 1,
+      "pictures": 1
+    },
+    {
+      "slide": 9,
+      "textObjects": 3,
+      "texts": 3,
+      "nativeTables": 0,
+      "graphicFrames": 1,
+      "pictures": 1
+    },
+    {
+      "slide": 10,
+      "textObjects": 11,
+      "texts": 12,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 11,
+      "textObjects": 8,
+      "texts": 9,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 12,
+      "textObjects": 11,
+      "texts": 16,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 13,
+      "textObjects": 8,
+      "texts": 8,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 3
+    },
+    {
+      "slide": 14,
+      "textObjects": 1,
+      "texts": 1,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 15,
+      "textObjects": 2,
+      "texts": 2,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 16,
+      "textObjects": 13,
+      "texts": 14,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 17,
+      "textObjects": 12,
+      "texts": 12,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 18,
+      "textObjects": 10,
+      "texts": 11,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 0
+    },
+    {
+      "slide": 19,
+      "textObjects": 7,
+      "texts": 7,
+      "nativeTables": 0,
+      "graphicFrames": 0,
+      "pictures": 1
+    },
+    {
+      "slide": 20,
+      "textObjects": 4,
+      "texts": 5,
+      "nativeTables": 0,
+      "graphicFrames": 1,
+      "pictures": 0
+    }
+  ],
+  "visualReview": "All 20 exported slide previews reviewed individually, 2026-11-24; native PowerPoint not opened",
+  "decodedImages": [
+    {
+      "name": "ppt/media/image.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image2.png",
+      "size": [
+        2190,
+        2444
+      ]
+    },
+    {
+      "name": "ppt/media/image3.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image4.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image5.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image6.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image.jpeg",
+      "size": [
+        886,
+        887
+      ]
+    },
+    {
+      "name": "ppt/media/image2.jpeg",
+      "size": [
+        1329,
+        1183
+      ]
+    },
+    {
+      "name": "ppt/media/image3.jpeg",
+      "size": [
+        1329,
+        1183
+      ]
+    },
+    {
+      "name": "ppt/media/image4.jpeg",
+      "size": [
+        1329,
+        1183
+      ]
+    },
+    {
+      "name": "ppt/media/image5.jpeg",
+      "size": [
+        887,
+        887
+      ]
+    },
+    {
+      "name": "ppt/media/image7.png",
+      "size": [
+        1440,
+        344
+      ]
+    },
+    {
+      "name": "ppt/media/image8.png",
+      "size": [
+        1440,
+        344
+      ]
+    }
+  ],
+  "pdfPages": 20,
+  "imageIntegrity": "passed"
+}

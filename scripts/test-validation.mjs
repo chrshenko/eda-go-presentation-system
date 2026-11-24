@@ -1,0 +1,13 @@
+import assert from 'node:assert/strict';
+import fs from 'node:fs';
+import {validate} from './validate.mjs';
+const good=JSON.parse(fs.readFileSync('examples/catalog.json','utf8'));
+assert.deepEqual(validate(good),[]);
+const growth=structuredClone(good);growth.slides[0].growth={from:1.4,to:2.7,percent:50};assert(validate(growth).some(e=>e.includes('процент')));
+const series=structuredClone(good);series.slides[8].series[0].values=[1];assert(validate(series).some(e=>e.includes('данные серии')));
+const crowded=structuredClone(good);crowded.slides[3].items.pop();assert(validate(crowded).some(e=>e.includes('items')));
+const missing=structuredClone(good);missing.slides[9].image='missing.jpg';assert(validate(missing).some(e=>e.includes('нет файла')));
+console.log('5 validation cases passed');
+const dense=structuredClone(good);dense.slides[4].items[0].body='а'.repeat(101);assert(validate(dense).some(e=>e.includes('100 символов')));
+const font=structuredClone(good);font.slides[3].items[0].valueFontSize=12;assert(validate(font).some(e=>e.includes('104 или 132')));
+console.log('2 additional regression cases passed');

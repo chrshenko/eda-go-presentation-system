@@ -1,0 +1,22 @@
+{
+  "version": "1.0.1",
+  "date": "2026-11-24",
+  "implementedLayouts": 20,
+  "figmaReferenceLayouts": 83,
+  "nativeTables": 1,
+  "nativeCharts": 2,
+  "embeddedChartWorkbooks": 2,
+  "allSlidePreviewsReviewed": true,
+  "pdfPages": 20,
+  "pdfType": "Image-based PDF from same final slide model; 1920x1080 per page; text not selectable",
+  "validationCasesPassed": 7,
+  "measuredOverflowRejectionTest": "passed",
+  "embeddedImagesDecode": "passed",
+  "exampleDeckSlides": 7,
+  "examplePreviewsReviewed": true,
+  "chinaBriefSharedGeneratorRegressionSlides": 16,
+  "validatedIn": "Artifact Tool render/import, OOXML validators, image decoding, PDF page counts; native PowerPoint not opened",
+  "intentionalBoundaryWarnings": "Cover spiral and product phone extend beyond slide; expected by design",
+  "figmaSourceUnchanged": true,
+  "publishedToGitHub": false
+}

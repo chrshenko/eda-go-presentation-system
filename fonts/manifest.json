@@ -1,0 +1,20 @@
+[
+  {
+    "file": "YS Display Cond-Black.ttf",
+    "sha256": "75e8a0f8f56f41b2ec4064970256a10ffa02fbe9f55d70b03564302e6b8a8c2f",
+    "source": "Installed user font; redistribution rights not supplied",
+    "fullName": "YS Display Cond Black"
+  },
+  {
+    "file": "YS Text-Regular.ttf",
+    "sha256": "3469d5d02e2ac52b2f43d317bc40f4d7daa0fbbfc8fc3711624119025ef09102",
+    "source": "Installed user font; redistribution rights not supplied",
+    "fullName": "YS Text Regular"
+  },
+  {
+    "file": "YS Text-Medium.ttf",
+    "sha256": "3fcf3774f10bf173abc521b8059fdcebdf4a8caf9b7ff9198a4abd8f026e40d1",
+    "source": "Installed user font; redistribution rights not supplied",
+    "fullName": "YS Text Medium"
+  }
+]

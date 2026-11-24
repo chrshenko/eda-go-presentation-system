@@ -1,0 +1,46 @@
+[
+  {
+    "path": "assets/brand/logo-dark.png",
+    "sha256": "3a995c3ea02c82aaade36510f8075e81742bc2b1af0370aac6587308031e0149"
+  },
+  {
+    "path": "assets/brand/logo-dark.svg",
+    "sha256": "38b02810c83bddb3a92add726c185ad19846d0bb9b97aa0e5e55bd45720dda63"
+  },
+  {
+    "path": "assets/brand/logo-yellow.png",
+    "sha256": "0aae6d18cae0d0292dccdcd0acbd9989bac8b0b849cfca886810caed7e99498f"
+  },
+  {
+    "path": "assets/brand/logo-yellow.svg",
+    "sha256": "d0ce4b8489616b23cb31767e9ebe8658fefff6aa18f8f276c70647147fec97c6"
+  },
+  {
+    "path": "assets/brand/spiral-dark.png",
+    "sha256": "7ab7f8ae46de009893f2827db0854fb187b81775dd4493beb1b2748ab3a359ba"
+  },
+  {
+    "path": "assets/brand/spiral-dark.svg",
+    "sha256": "9342b8cacf7d3874ad803fe1fa22b68044aef842c566db813ed72198b5c6bc74"
+  },
+  {
+    "path": "assets/brand/spiral-full.svg",
+    "sha256": "9342b8cacf7d3874ad803fe1fa22b68044aef842c566db813ed72198b5c6bc74"
+  },
+  {
+    "path": "assets/food/burger.jpg",
+    "sha256": "a028412ef27a56f1c0794d19cb43d8640028baaa1bff552e70baba2f4a1333f0"
+  },
+  {
+    "path": "assets/food/pizza.jpg",
+    "sha256": "deb39ad0552885a3fe79e2b2ef68008bbbc82da5167f72199aac424b136d5a1b"
+  },
+  {
+    "path": "assets/food/salmon.jpg",
+    "sha256": "d474fcf4274d2458806c14e9976c145b716af02db2f329342f091a4adfefb99b"
+  },
+  {
+    "path": "assets/food/shawarma.jpg",
+    "sha256": "9a410de18e533c024b36736a29ff7ca896cf4b1766423952a3c49f0a636b493a"
+  }
+]
